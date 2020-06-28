@@ -13,9 +13,9 @@
 #include <stdarg.h>
 #include <dirent.h>
 
-#define BUF_SIZE		1024		//Max buffer size of the data in a frame
-#define USERNAME_SIZE	16
-#define PASSWORD_SIZE	16
+#define BUF_SIZE		1024		// Max buffer size of the data in a frame
+#define USERNAME_SIZE		16
+#define PASSWORD_SIZE		16
 
 char AUTH_USERNAME[] = "rootadmin";
 char AUTH_PASSWORD[] = "123windows!@#";
